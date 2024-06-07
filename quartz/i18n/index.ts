@@ -17,8 +17,10 @@ import pt from "./locales/pt-BR"
 import hu from "./locales/hu-HU"
 import fa from "./locales/fa-IR"
 import pl from "./locales/pl-PL"
+import he from "./locales/he-IS"
 
 export const TRANSLATIONS = {
+  "he-IS": he,
   "en-US": en,
   "fr-FR": fr,
   "it-IT": it,
