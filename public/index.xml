@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Nadavi&#039;s Blog</title>
+      <link>https://neur0nz.github.io/NP-Blog/</link>
+      <description>Last 10 notes on Nadavi&#039;s Blog</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title> הכל כיף ומשחקים עד שמישהו מקבל מוטציה</title>
+    <link>https://neur0nz.github.io/NP-Blog/%D7%A4%D7%95%D7%A1%D7%98%D7%99%D7%9D-%D7%91%D7%A2%D7%91%D7%A8%D7%99%D7%AA/ESS</link>
+    <guid>https://neur0nz.github.io/NP-Blog/%D7%A4%D7%95%D7%A1%D7%98%D7%99%D7%9D-%D7%91%D7%A2%D7%91%D7%A8%D7%99%D7%AA/ESS</guid>
+    <description>על אסטרטגיות יציבות אבולוציונית הערה: זה הפוסט הראשון באתר זה, פשוט רציתי להתחיל להעלות דברים אז זה לא בהכך הכי מושקע בעולם. אסטרטגיה נקראת יציבה אבולוציונית אם לכל אסטרטגיה מעורבת x\neq x^* קיים \epsilon_{0}&gt;0 כך שלכל 0&lt;\epsilon&lt;\epsilon_{0} מתקיים \begin{equation} (1-\epsilon)u_{1}(x,x^*)+\epsilon u_{1}(x,x^*)&lt;(1-\epsilon)u_{1}(x^*,x^*)+\epsilon u_{1}(x^*,x) \end{equation} ההגדרה זה לא הדבר הכי ברור בעלום אז בואו רגע נבין מי נגיד מי פה,….</description>
+    <pubDate>Fri, 07 Jun 2024 15:58:37 GMT</pubDate>
+  </item><item>
+    <title>Welcome to Nadavi&#039;s Blog</title>
+    <link>https://neur0nz.github.io/NP-Blog/</link>
+    <guid>https://neur0nz.github.io/NP-Blog/</guid>
+    <description>This is a blog created by me (Nadav Perry) to write about things I’m interested in, mostly mathematics and computer science. additionally most posts will probably be written in Hebrew however I did separate the posts into Hebrew and English posts so even if you don’t speak Hebrew, feel free to look around 🤩.</description>
+    <pubDate>Fri, 07 Jun 2024 15:50:22 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
