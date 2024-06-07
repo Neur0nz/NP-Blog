@@ -28,24 +28,24 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#fbf1c7",       // Gruvbox background light
+          lightgray: "#ebdbb2",   // Gruvbox light gray
+          gray: "#d5c4a1",        // Gruvbox gray
+          darkgray: "#665c54",    // Gruvbox dark gray
+          dark: "#3c3836",        // Gruvbox darkest
+          secondary: "#d79921",   // Gruvbox yellow
+          tertiary: "#b16286",    // Gruvbox purple
+          highlight: "rgba(184, 187, 38, 0.15)", // Gruvbox highlight with transparency
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#282828",       // Gruvbox background dark
+          lightgray: "#3c3836",   // Gruvbox medium gray
+          gray: "#504945",        // Gruvbox gray
+          darkgray: "#d5c4a1",    // Gruvbox light gray
+          dark: "#fbf1c7",        // Gruvbox lightest
+          secondary: "#fabd2f",   // Gruvbox bright yellow
+          tertiary: "#d3869b",    // Gruvbox bright purple
+          highlight: "rgba(184, 187, 38, 0.15)", // Gruvbox highlight with transparency
         },
       },
     },
@@ -68,7 +68,7 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.Latex({ renderEngine: "mathjax" }),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
