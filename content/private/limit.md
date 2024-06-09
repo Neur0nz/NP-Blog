@@ -2,7 +2,7 @@
 title: גבולות של סדרות בכמה דקות
 cssclasses:
   - rtl-class
-draft: false
+draft: true
 tags:
 ---
 ## הקדמה קצרה
