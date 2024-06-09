@@ -51,7 +51,7 @@ export default {
       searchBarPlaceholder: "חפש משהו",
     },
     tableOfContents: {
-      title: "תוכן עניינים",
+      title: "תוכן העניינים",
     },
     contentMeta: {
       readingTime: ({ minutes }) => ` זמן קריאה: ${minutes}  דקות`,

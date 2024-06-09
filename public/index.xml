@@ -6,23 +6,23 @@
       <description>10 פתקים אחרונים on Nadavi&#039;s Blog</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>הכל כיף ומשחקים עד שיש מוטציה</title>
+    <link>https://neur0nz.github.io/NP-Blog/ESS2</link>
+    <guid>https://neur0nz.github.io/NP-Blog/ESS2</guid>
+    <description>הערות למרות שהוספתי ושיניתי הרבה דברים, הפוסט הזה לקח את רוב המידע שלו מהספר “תורת המשחקים” של שמואל זמיר, מיכאל משלר ואלון סולן אז תודה להם. ברור שרשתות חברתיות לא באמת עובדות בדיוק כמו שאני מתאר פה, אני מפשט לצורך הדוגמא.</description>
+    <pubDate>Sun, 09 Jun 2024 13:38:33 GMT</pubDate>
+  </item><item>
     <title>גבולות של סדרות בכמה דקות</title>
     <link>https://neur0nz.github.io/NP-Blog/limit</link>
     <guid>https://neur0nz.github.io/NP-Blog/limit</guid>
     <description>הקדמה קצרה הגדרת \varepsilon,N הייתה אולי הפעם הראשונה שקראתי הגדרה מתמטית, חשבתי לרגע, ואז אמרתי ”רגע, מה לעזאזל קראתי עכשיו?“ אבל ההגדרה והאינטואיציה מסביבה דווקא נחמדה ובתכלס ...</description>
-    <pubDate>Fri, 07 Jun 2024 22:07:46 GMT</pubDate>
-  </item><item>
-    <title> הכל כיף ומשחקים עד שמישהו מקבל מוטציה</title>
-    <link>https://neur0nz.github.io/NP-Blog/ESS</link>
-    <guid>https://neur0nz.github.io/NP-Blog/ESS</guid>
-    <description>על אסטרטגיות יציבות אבולוציונית הערה: זה הפוסט הראשון באתר זה, פשוט רציתי להתחיל להעלות דברים אז זה לא בהכך הכי מושקע בעולם. אסטרטגיה נקראת יציבה אבולוציונית אם לכל אסטרטגיה מעורבת x\neq x^* קיים \varepsilon_{0}&gt;0 כך שלכל 0&lt;\varepsilon&lt;\varepsilon_{0} מתקיים (1-\varepsilon)u_{1}(x,x^{*})+\varepsilon u_{1}(x,x^{*})&lt;(1-\varepsilon)u_{1}(x^{*},x^{*})+\varepsilon u_{1}(x^{*},x) אז בואו נפרק את ההגדרה הזו, קודם כל מה היא פונקציית ה u_{1} הזו?.</description>
-    <pubDate>Fri, 07 Jun 2024 20:19:23 GMT</pubDate>
+    <pubDate>Sat, 08 Jun 2024 13:53:03 GMT</pubDate>
   </item><item>
     <title>🍁 ברוכים הבאים לבלוג של נדבי</title>
     <link>https://neur0nz.github.io/NP-Blog/</link>
     <guid>https://neur0nz.github.io/NP-Blog/</guid>
     <description>הי 👋, אני נדב פרי, סטודנט בן 18 לתואר במתמטיקה באוניברסיטה הפתוחה. לבלוג אין מטרה ספיציפת חוץ מלדבר על דברים שמעניינים אותי במתמטיקה ונושאים אחרים שנתקלתי בהם ויש לי חשק לשתף, בתקווה תמצאו כאן דברים מעניינים ותהנו לפחות קצת.</description>
-    <pubDate>Fri, 07 Jun 2024 20:19:23 GMT</pubDate>
+    <pubDate>Sat, 08 Jun 2024 13:53:03 GMT</pubDate>
   </item>
     </channel>
   </rss>
