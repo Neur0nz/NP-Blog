@@ -5,12 +5,14 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  footer: Component.Footer({
-    links: {
-      "My GitHub": "https://github.com/Neur0nz",
-      "Email Me": "mailto:nadavprr@gmail.com",
-    },
-  }),
+  // footer: Component.Footer({
+  //   links: {
+  //     "My GitHub": "https://github.com/Neur0nz",
+  //     "Email Me": "mailto:nadavprr@gmail.com",
+  //   },
+  // }),
+  footer: Component.Comments(),
+
 }
 
 // components for pages that display a single page (e.g. a single note)
@@ -32,7 +34,14 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.Explorer(),
+    Component.Links({
+      links: {
+        GitHub: "https://github.com/Neur0nz",
+        "Email": "mailto:nadavprr@gmail.com",
+      },
+  }),
   ],
+
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
