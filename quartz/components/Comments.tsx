@@ -15,5 +15,6 @@ export default ((opts?: Options) => {
 
   Comments.afterDOMLoaded = script
   Comments.css = style
+  console.log(script)
   return Comments
 }) satisfies QuartzComponentConstructor

@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "google",tagId: 'G-34TJ990YDB',
     },
     locale: "he-IS",
-    baseUrl: "neur0nz.github.io/NP-Blog/",
+    baseUrl: "neur0nz.github.io/NP-Blog",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {

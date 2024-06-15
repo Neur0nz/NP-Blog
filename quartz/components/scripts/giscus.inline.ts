@@ -28,8 +28,8 @@ function loadComments() {
   script.async = true
   script.setAttribute("data-repo", "Neur0nz/NP-Blog")
   script.setAttribute("data-repo-id", "R_kgDOMGTkgQ")
-  script.setAttribute("data-category", "Announcements")
-  script.setAttribute("data-category-id", "DIC_kwDOMGTkgc4CgGa6")
+  script.setAttribute("data-category", "Comments")
+  script.setAttribute("data-category-id", "DIC_kwDOMGTkgc4CgGgv")
   script.setAttribute("data-mapping", "pathname")
   script.setAttribute("data-strict", "0")
   script.setAttribute("data-reactions-enabled", "1")
@@ -39,7 +39,19 @@ function loadComments() {
   script.setAttribute("data-lang", "en")
   script.setAttribute("crossorigin", "anonymous")
   script.setAttribute("data-loading", "lazy")
-
+  // script.setAttribute("data-repo", "rickliujh/techblog")
+  // script.setAttribute("data-repo-id", "R_kgDOL6VQ_Q")
+  // script.setAttribute("data-category", "Announcements")
+  // script.setAttribute("data-category-id", "DIC_kwDOL6VQ_c4CfaND")
+  // script.setAttribute("data-mapping", "pathname")
+  // script.setAttribute("data-strict", "0")
+  // script.setAttribute("data-reactions-enabled", "1")
+  // script.setAttribute("data-emit-metadata", "0")
+  // script.setAttribute("data-input-position", "top")
+  // script.setAttribute("data-theme", toggleSwitch.checked? "noborder_dark":"noborder_light")
+  // script.setAttribute("data-lang", "en")
+  // script.setAttribute("crossorigin", "anonymous")
+  // script.setAttribute("data-loading", "lazy")
   document.body.appendChild(script);
   console.log("appended")
 }
@@ -58,4 +70,3 @@ document.addEventListener("nav", ({detail}) => {
 
   changeTerm(detail.url)
 })
-
