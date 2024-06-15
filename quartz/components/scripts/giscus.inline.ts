@@ -35,7 +35,7 @@ function loadComments() {
   script.setAttribute("data-reactions-enabled", "1")
   script.setAttribute("data-emit-metadata", "0")
   script.setAttribute("data-input-position", "top")
-  script.setAttribute("data-theme", toggleSwitch.checked? "noborder_gray":"noborder_light")
+  script.setAttribute("data-theme", toggleSwitch.checked? "noborder_dark":"noborder_light")
   script.setAttribute("data-lang", "en")
   script.setAttribute("crossorigin", "anonymous")
   script.setAttribute("data-loading", "lazy")
