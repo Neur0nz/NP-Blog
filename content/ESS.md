@@ -6,6 +6,7 @@ draft: false
 tags:
   - Game_Theory
   - Nadav_Perry
+  - Maths
 author: נדב פרי
 ---
 ### הערות
