@@ -30,7 +30,7 @@ export default {
       darkMode: "Dark mode",
     },
     explorer: {
-      title: "מצא פוסטים",
+      title: "פוסטים",
     },
     footer: {
       createdWith: "נוצר באמצעות",
